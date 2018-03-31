@@ -2,6 +2,6 @@
   "name": "insta_bot_lob",
   "version": "0.0.1",
   "dependencies": {
-    
+    "node-telegram-bot-api": "^0.30.0"
   }
 }
